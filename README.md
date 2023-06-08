@@ -1,5 +1,6 @@
 # django-todo
 A simple todo app built with django
+![image](https://github.com/hamzarehmansheikh4/Django-todo-app-Jenkins-CICD/assets/128228180/aa42a544-61e9-43fd-ad4a-24cd3e3f02ca)
 
 $ git clone https://gitlab.com/hamzarehmansheikh4/django-todo-app-cicd.git
 
